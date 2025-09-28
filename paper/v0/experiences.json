@@ -1,0 +1,5 @@
+{
+  "schemaVersion": "1.0",
+  "lastUpdated": "2025-09-28T08:00:00Z",
+  "experiences": ["Note: Cloud Experiences can be 'full screen', 'dialog', 'survey', 'banner'. They can be localized and support a few simple condition types."]
+}
